@@ -24,8 +24,10 @@ Print the Huffman code for the string.
 
  
 ## Program:
-
-
+```
+Name:Arun Kumar
+Reg No:22008531
+```
 #### Get the input String
 ``` Python
 string = 'Arun Kumar'
