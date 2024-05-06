@@ -25,8 +25,8 @@ Print the Huffman code for the string.
  
 ## Program:
 ```
-Name:Arun Kumar
-Reg No:22008531
+Name:ARUN KUMAR SUKDEV CHAVAN
+Reg No:212222230013
 ```
 #### Get the input String
 ``` Python
